@@ -1,1 +1,3 @@
 Creating file on GitHub to fetch using git bash command line, and merge with local repository.
+
+Editing file using vim. Will push to server soon.
